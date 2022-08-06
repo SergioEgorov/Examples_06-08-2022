@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\bin\Debug\net6.0\Exaxmple001_IntroMagic.exe
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\bin\Debug\net6.0\Exaxmple001_IntroMagic.deps.json
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\bin\Debug\net6.0\Exaxmple001_IntroMagic.runtimeconfig.json
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\bin\Debug\net6.0\Exaxmple001_IntroMagic.dll
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\bin\Debug\net6.0\Exaxmple001_IntroMagic.pdb
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\Exaxmple001_IntroMagic.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\Exaxmple001_IntroMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\Exaxmple001_IntroMagic.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\Exaxmple001_IntroMagic.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\Exaxmple001_IntroMagic.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\Exaxmple001_IntroMagic.dll
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\refint\Exaxmple001_IntroMagic.dll
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\Exaxmple001_IntroMagic.pdb
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\Exaxmple001_IntroMagic.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\Работы по КУРСУ\С#\Lectuce2_06.08.2022\Exaxmple001_IntroMagic\obj\Debug\net6.0\ref\Exaxmple001_IntroMagic.dll

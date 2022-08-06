@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exaxmple001_IntroMagic/1.0.0": {
+        "runtime": {
+          "Exaxmple001_IntroMagic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exaxmple001_IntroMagic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
